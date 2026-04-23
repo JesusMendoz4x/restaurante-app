@@ -1,0 +1,18 @@
+Planteamiento de problemática
+Una pequeña empresa local desea desarrollar una plataforma web para la gestión de pedidos en línea de un restaurante, donde los clientes puedan:
+* consultar el menú
+* realizar pedidos en tiempo real
+* registrar su información
+* consultar el estado de su pedido
+
+El sistema debe considerar lo siguiente:
+* Puede iniciar con pocos usuarios, pero se espera crecimiento en poco tiempo
+* Debe ser accesible desde dispositivos móviles
+* El equipo de desarrollo es pequeño (2–3 personas)
+* Se requiere rapidez en el desarrollo (tiempo limitado)
+* Los pedidos pueden cambiar constantemente (productos, precios, disponibilidad)
+* Se desea integrar posteriormente una app móvil
+
+El equipo técnico debe decidir qué pila de desarrollo utilizar, por ejemplo (propón 2 con base en tu investigación):
+* MERN (MongoDB, Express, React, Node.js)
+* LAMP (Linux, Apache, MySQL, PHP).
